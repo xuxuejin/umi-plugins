@@ -8,3 +8,4 @@ node_modules
 .umi-production
 .DS_Store
 yarn.lock
+*.log
